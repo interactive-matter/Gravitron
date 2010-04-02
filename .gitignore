@@ -1,0 +1,14 @@
+schematics/Archiv*.zip
+schematics/*.GBL
+schematics/*.GBO
+schematics/*.GBS
+schematics/*.GML
+schematics/*.GTL
+schematics/*.GTO
+schematics/*.GTP
+schematics/*.GTS
+schematics/*.TXT
+schematics/*.b#?
+schematics/*.dri
+schematics/*.gpi
+schematics/*.s#?
